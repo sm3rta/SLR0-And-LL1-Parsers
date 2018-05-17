@@ -1,12 +1,12 @@
 # SLR0-And-LL1-Parsers
-This is an implementation two parsers of a toy programming language 
+This is an implementation of two parsers of a toy programming language 
 
 This project consists of three parts:
-  1. Lexical Analysis
-  2. LL(1) Top Down Parser
-  3. SLR(0) Bottom Up Parser
+  1. Lexical Analysis (lexical.cpp)
+  2. LL(1) Top Down Parser (LL1_parse.cpp)
+  3. SLR(0) Bottom Up Parser (slr_parse.cpp)
   
-The toy language includes:
+The toy programming language includes:
   1. If statements
   2. While statements
   3. Assignments
